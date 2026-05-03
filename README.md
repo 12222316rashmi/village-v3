@@ -3,12 +3,9 @@
 <h1>🏥 SHSEWS</h1>
 <h3>Smart Health Surveillance &amp; Early Warning System</h3>
 
-<!-- Animated big title -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=99999999&color=06B6D4&center=true&vCenter=true&width=700&height=50&lines=Smart+Health+Surveillance+%26+Early+Warning+System" alt="SHSEWS" />
-
 <!-- Animated typing subtitle -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=AI-Powered+Disease+Outbreak+Prediction;LightGBM+%2B+Water+Quality+Ensemble+ML;Real-Time+Surveillance+Across+11+Villages;96.1%25+Ensemble+Model+Accuracy;Built+for+Rural+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=AI-Powered+Disease+Outbreak+Prediction;LightGBM+%2B+Water+Quality+Ensemble+ML;Real-Time+Surveillance+Across+11+Villages;96.1%25+Ensemble+Model+Accuracy;Built+for+Rural+India" alt="Typing SVG" />
 </a>
 
 <br/><br/>
