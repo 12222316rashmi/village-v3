@@ -29,31 +29,31 @@
   <tr>
     <td align="center" width="50%">
       <strong>🏠 Home — AI-Powered Disease Prevention</strong><br/><br/>
-      <img src="public/S1.png" alt="Homepage Hero" width="100%"/>
+      <img src="S1.png" alt="Homepage Hero" width="100%"/>
     </td>
     <td align="center" width="50%">
       <strong>🧠 ML Prediction Configuration</strong><br/><br/>
-      <img src="public/S1A.png" alt="ML Prediction Config" width="100%"/>
+      <img src="S1A.png" alt="ML Prediction Config" width="100%"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <strong>📊 Village Intelligence Dashboard</strong><br/><br/>
-      <img src="public/S5.png" alt="Village Health Intelligence" width="100%"/>
+      <img src="S5.png" alt="Village Health Intelligence" width="100%"/>
     </td>
     <td align="center" width="50%">
       <strong>⚠️ AI Alerts & ML Recommendations</strong><br/><br/>
-      <img src="public/S3.png" alt="AI Alerts and Recommendations" width="100%"/>
+      <img src="S3.png" alt="AI Alerts and Recommendations" width="100%"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <strong>📈 Trend Analysis — Disease, Water & Environment</strong><br/><br/>
-      <img src="public/S2.png" alt="Trend Charts" width="100%"/>
+      <img src="S2.png" alt="Trend Charts" width="100%"/>
     </td>
     <td align="center" width="50%">
       <strong>🤖 Ensemble Model Performance</strong><br/><br/>
-      <img src="public/S4.png" alt="Model Performance" width="100%"/>
+      <img src="S4.png" alt="Model Performance" width="100%"/>
     </td>
   </tr>
 </table>
