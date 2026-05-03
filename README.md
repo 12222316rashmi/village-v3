@@ -8,6 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=AI-Powered+Disease+Outbreak+Prediction;LightGBM+%2B+Water+Quality+Ensemble+ML;Real-Time+Surveillance+Across+11+Villages;96.1%25+Ensemble+Model+Accuracy;Built+for+Rural+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<!-- Animated author credit -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=2000&color=F472B6&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Made+with+%E2%9D%A4%EF%B8%8F+by+Rashmi+Dubey;%F0%9F%92%BB+Full+Stack+%7C+AI%2FML+Developer;%F0%9F%8C%9F+Rashmi+Dubey+%E2%80%94+SHSEWS+Creator" alt="Made by Rashmi Dubey" />
+</a>
+
 <br/><br/>
 
 <!-- Badges row 1 -->
@@ -285,4 +292,21 @@ village-v3/
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:6366f1,100:06b6d4&height=120&section=footer&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<br/>
+
+---
+
+<div align="center">
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1500&color=F472B6&center=true&vCenter=true&width=600&lines=%F0%9F%92%96+Crafted+with+passion+by+Rashmi+Dubey;%F0%9F%8C%9F+Built+for+Rural+Health+%7C+Made+in+India+%F0%9F%87%AE%F0%9F%87%B3;%E2%9C%A8+Rashmi+Dubey+%E2%80%94+SHSEWS+%7C+2024" alt="Footer credit" />
+</a>
+
+<br/>
+
+![Made by](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Rashmi%20Dubey-F472B6?style=for-the-badge&labelColor=0f172a)
+![For Rural Health](https://img.shields.io/badge/Built%20for-Rural%20Health%20%F0%9F%87%AE%F0%9F%87%B3-10b981?style=for-the-badge&labelColor=0f172a)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:6366f1,100:06b6d4&height=120&section=footer&text=Made%20by%20Rashmi%20Dubey&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
